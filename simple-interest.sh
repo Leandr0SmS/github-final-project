@@ -6,7 +6,11 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
+<<<<<<< HEAD
    # Leandr0SmS
+=======
+   # Leandro Simoes
+>>>>>>> 6b9fe59661ee5435f33ef94dfb89423f04a9f940
 
    # Input:
    # p, principal amount
