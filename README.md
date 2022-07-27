@@ -1,5 +1,4 @@
 # Simple Interest Calculator
-==============================================================================================================
 
 This Simple Interest Calculator will help to empower and provide opportunities to low income management. 
 It helps to calculate simple interest given principal, annual rate of interest and time period in years.
