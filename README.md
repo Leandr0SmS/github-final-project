@@ -26,7 +26,7 @@ It helps to calculate simple interest given principal, annual rate of interest a
 ##  Author:
 -------------------------------------------------------------------------------------------------------------------------
 	> Author: Upkar Lidder (IBM)
-	> Additional Authors: Leandro Simoes
+	> Additional Authors: Leandr0SmS
 
 ## License:
 -------------------------------------------------------------------------------------------------------------------------
